@@ -1,6 +1,7 @@
 return {
 "f43a4d32-35b6-40b6-93c0-e161ff161bf4",  -- SmallestPixel7 Font in base65
 "C375858B-3E34-48F6-95EB-6500D2D94088",  -- MenuFont in base64
+"0B018E7A-0557-4F61-8017-0128A3323B41", 
 -- minecraft font,  אני אקבל את זה מאוחר י
 }
 
